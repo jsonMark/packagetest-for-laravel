@@ -1,8 +1,8 @@
 {
-    "name": "jsonMark/packagetest-for-laravel",
+    "name": "json_mark/packagetest-for-laravel",
     "authors": [
         {
-            "name": "jsonMark",
+            "name": "json_mark",
             "email": "email@email.com"
         }
     ],
